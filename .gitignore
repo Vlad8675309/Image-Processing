@@ -1,4 +1,6 @@
 *.pgm
+ImageProcessing/html/
+ImageProcessing/latex/
 
 ### C++ ###
 # Prerequisites
